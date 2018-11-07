@@ -5,8 +5,21 @@ This repository is a collection of notebooks exploring various machine learning 
 
 ## References
 
-[Matminer](https://github.com/hackingmaterials/matminer_examples)
+- [Matminer](https://github.com/hackingmaterials/matminer_examples)
 
-[Keras](https://github.com/keras-team/keras/tree/master/examples)
+- [Keras](https://github.com/keras-team/keras/tree/master/examples)
 
-[TensorFlow](https://github.com/tensorflow/docs/tree/master/site/en/tutorials/eager)
+- [TensorFlow](https://github.com/tensorflow/docs/tree/master/site/en/tutorials/eager)
+
+## Dependencies
+
+All dependencies can be pip installed, but be aware that tensorflow is not yet compatible with python 3.7 (11/7/18)
+
+- Python (3.6)
+- Pymatgen
+- Matminer
+- scikit-learn
+- Pandas
+- NumPy
+- Tensorflow
+- Jupyter
