@@ -13,7 +13,7 @@ This repository is a collection of notebooks exploring various machine learning 
 
 ## Dependencies
 
-All dependencies can be pip installed, but be aware that tensorflow is not yet compatible with python 3.7 (11/7/18)
+All dependencies can be pip installed, but be aware that standard tensorflow is not yet compatible with python 3.7 (11/7/18)
 
 - Python (3.6)
 - Pymatgen
