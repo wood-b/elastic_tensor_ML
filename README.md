@@ -3,9 +3,9 @@
 
 This repository is a collection of notebooks exploring various machine learning (ML) models for predicting the bulk modulus (K) of materials. The dataset comes from the [Materials Project](https://materialsproject.org), where the elastic tensors were calculated from first principles. The goal of the project is to develop an updated ML model because the previous model was trained on ~ 1500 data points, whereas now we have ~ 8500 data points. Additionally, the previous model was difficult to retrain so having a reproducible pipeline is important moving forward.
 
-##To-do
+## To-do
 
-- Find a more statistically robust method for hyperparameter tuning and comparison of different ML models, possibly nested cross validation [arXiv](https://arxiv.org/pdf/1811.12808.pdf) 
+- Find a more statistically robust method for hyperparameter tuning and comparison of different ML models, possibly nested cross validation [[arXiv](https://arxiv.org/pdf/1811.12808.pdf)] 
 - Try batch normalization or dropout with the neural networks
 
 ## References
